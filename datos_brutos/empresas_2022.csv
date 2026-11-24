@@ -1,0 +1,34 @@
+empresa;sector;fecha;ingresos;beneficio_neto;activo_total;patrimonio_neto
+Aceros Bilbao;Industria;31/12/2022;2.549,8;369,4;6.716,4;1.726,6
+Alimentos Sierra;Consumo;31/12/2022;1.774,6;121,6;1.788,3;537,8
+Banco Duero;Banca;31/12/2022;4.055,0;-1,1;4.376,5;2.060,4
+Banco Mediterráneo;Banca;31/12/2022;30.419,9;252,9;29.810,7;10.096,3
+Banco Ribera;Banca;31/12/2022;6.004,8;169,2;;
+Bebidas del Ebro;Consumo;31/12/2022;19.131,7;1.878,4;21.724,5;9.020,4
+Biomed Galicia;Salud;31/12/2022;2.651,8;358,6;4.316,2;2.292,1
+Caja Levante;Banca;31/12/2022;4.162,4;135,0;11.069,9;4.376,8
+Cementos Guadiana;Industria;31/12/2022;19.958,1;981,8;23.163,7;7.957,8
+Cifra Digital;Tecnología;31/12/2022;7.576,7;;19.010,7;9.901,4
+Clínicas Ronda;Salud;31/12/2022;7.807,9;1.380,8;;5.853,8
+Construcciones Tajo;Industria;31/12/2022;7.614,1;525,4;9.405,6;4.089,0
+Construcciones Tajo;Industria;31/12/2022;7.614,1;525,4;9.405,6;4.089,0
+Datasoft;Tecnología;31/12/2022;30.631,0;;30.327,1;8.735,3
+Distribuciones Turia;Consumo;31/12/2022;27.122,2;1.248,7;25.723,8;13.612,5
+Eólica del Sur;Energía;31/12/2022;4.312,3;264,8;;2.052,7
+Farma Ibérica;Salud;31/12/2022;11.256,6;;15.324,4;5.474,0
+Finanzas Cantábrico;Banca;31/12/2022;2.258,1;128,4;6.007,1;1.860,4
+Gas Meseta;Energía;31/12/2022;28.990,3;1.349,3;26.590,5;10.524,2
+Iberluz;Energía;31/12/2022;10.167,3;887,1;18.548,2;9.583,5
+Ibersistemas;Tecnología;31/12/2022;;642,5;9.037,1;4.015,3
+Ingeniería Miño;Industria;31/12/2022;23.251,0;1.361,6;21.449,5;9.152,2
+Ingeniería Miño;Industria;31/12/2022;23.251,0;1.361,6;21.449,5;9.152,2
+Laboratorios Sol;Salud;31/12/2022;5.230,2;374,3;5.246,5;1.389,9
+Lácteos Norte;Consumo;31/12/2022;22.759,3;971,1;21.717,0;6.841,9
+Moda Brava;Consumo;31/12/2022;;877,6;9.086,5;3.959,2
+Motores Júcar;Industria;31/12/2022;8.186,9;602,6;15.912,2;7.697,2
+Nubetec;Tecnología;31/12/2022;6.141,8;950,9;;4.693,2
+Ortopedia Centro;Salud;31/12/2022;;847,3;15.454,0;5.596,0
+Petrolera Atlántica;Energía;31/12/2022;7.068,2;782,6;13.352,4;6.721,1
+Petrolera Atlántica;Energía;31/12/2022;7.068,2;782,6;13.352,4;6.721,1
+Redlink;Tecnología;31/12/2022;21.937,5;2.218,1;22.600,5;
+Solaria Norte;Energía;31/12/2022;3.660,8;338,4;6.188,2;2.302,6

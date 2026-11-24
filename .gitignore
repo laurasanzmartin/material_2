@@ -1,0 +1,10 @@
+
+
+# Resultados: se regeneran con Rscript ejecutar_todo.R
+resultados/
+
+# Archivos temporales
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/

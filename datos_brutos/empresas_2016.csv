@@ -1,0 +1,31 @@
+empresa;sector;fecha;ingresos;beneficio_neto;activo_total;patrimonio_neto
+Aceros Bilbao;Industria;31/12/2016;6.280,1;260,3;6.076,5;2.546,1
+Alimentos Sierra;Consumo;31/12/2016;1.196,6;119,8;1.650,1;627,6
+Banco Duero;Banca;31/12/2016;1.663,7;-87,2;4.015,8;1.773,8
+Banco Mediterráneo;Banca;31/12/2016;9.909,3;536,6;27.646,3;11.862,5
+Banco Ribera;Banca;31/12/2016;5.282,3;-17,4;8.313,1;2.162,8
+Bebidas del Ebro;Consumo;31/12/2016;13.218,9;617,9;17.577,0;5.969,5
+Biomed Galicia;Salud;31/12/2016;2.337,1;319,8;4.147,8;1.889,9
+Caja Levante;Banca;31/12/2016;3.990,4;-42,8;9.023,9;2.800,8
+Cementos Guadiana;Industria;31/12/2016;18.935,2;1.029,0;17.969,1;4.513,8
+Cifra Digital;Tecnología;31/12/2016;17.513,8;1.700,3;17.192,4;
+Clínicas Ronda;Salud;31/12/2016;8.689,9;993,2;13.973,0;4.092,7
+Construcciones Tajo;Industria;31/12/2016;5.462,9;266,9;7.319,0;3.286,9
+Datasoft;Tecnología;31/12/2016;16.825,4;;25.621,3;13.369,0
+Distribuciones Turia;Consumo;31/12/2016;9.208,2;;21.544,8;6.839,1
+Eólica del Sur;Energía;31/12/2016;1.758,7;189,9;3.927,8;1.679,8
+Farma Ibérica;Salud;31/12/2016;;866,1;13.847,0;5.846,6
+Finanzas Cantábrico;Banca;31/12/2016;2.892,8;145,6;5.931,2;2.993,8
+Gas Meseta;Energía;31/12/2016;21.320,1;1.221,8;23.505,7;11.753,7
+Iberluz;Energía;31/12/2016;8.187,9;966,7;16.860,8;6.034,4
+Ibersistemas;Tecnología;31/12/2016;8.177,5;539,8;7.571,5;2.471,0
+Ingeniería Miño;Industria;31/12/2016;14.401,1;670,7;15.808,0;8.149,1
+Laboratorios Sol;Salud;31/12/2016;2.973,1;325,7;4.395,5;1.121,1
+Lácteos Norte;Consumo;31/12/2016;10.159,6;744,1;;6.512,6
+Moda Brava;Consumo;31/12/2016;4.134,4;454,1;7.772,6;
+Motores Júcar;Industria;31/12/2016;12.979,5;615,2;12.464,2;3.824,1
+Nubetec;Tecnología;31/12/2016;6.552,2;948,2;10.622,6;3.433,8
+Ortopedia Centro;Salud;31/12/2016;6.776,3;853,4;11.003,6;3.410,0
+Petrolera Atlántica;Energía;31/12/2016;6.563,6;474,9;11.728,3;3.700,9
+Redlink;Tecnología;31/12/2016;11.349,9;;16.294,4;5.038,6
+Solaria Norte;Energía;31/12/2016;2.999,3;324,2;5.753,9;1.479,7

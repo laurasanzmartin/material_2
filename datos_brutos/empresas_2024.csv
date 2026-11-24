@@ -1,0 +1,35 @@
+empresa;sector;fecha;ingresos;beneficio_neto;activo_total;patrimonio_neto
+Aceros Bilbao;Industria;31/12/2024;4.752,4;183,4;7.245,2;3.665,8
+Alimentos Sierra;Consumo;31/12/2024;664,8;132,3;1.833,4;608,9
+Banco Duero;Banca;31/12/2024;2.785,5;62,4;4.845,8;1.234,1
+Banco Mediterráneo;Banca;31/12/2024;30.260,9;165,5;29.755,6;9.526,3
+Banco Ribera;Banca;31/12/2024;4.025,5;99,4;10.169,7;5.060,8
+Banco Ribera;Banca;31/12/2024;4.025,5;99,4;10.169,7;5.060,8
+Bebidas del Ebro;Consumo;31/12/2024;17.153,0;1.408,7;23.878,3;8.391,8
+Biomed Galicia;Salud;31/12/2024;3.800,6;413,1;4.468,6;2.235,9
+Biomed Galicia;Salud;31/12/2024;3.800,6;413,1;4.468,6;2.235,9
+Caja Levante;Banca;31/12/2024;;157,4;11.226,7;3.963,0
+Cementos Guadiana;Industria;31/12/2024;16.709,3;1.569,5;26.396,6;
+Cifra Digital;Tecnología;31/12/2024;12.332,6;2.055,6;21.077,7;6.550,1
+Clínicas Ronda;Salud;31/12/2024;21.764,2;2.177,5;21.238,7;10.511,9
+Construcciones Tajo;Industria;31/12/2024;8.054,8;725,4;9.714,5;4.275,7
+Datasoft;Tecnología;31/12/2024;33.591,8;3.204,7;32.785,2;13.759,6
+Distribuciones Turia;Consumo;31/12/2024;26.469,6;1.981,5;27.633,5;10.704,7
+Eólica del Sur;Energía;31/12/2024;1.909,2;248,0;4.593,4;1.448,3
+Eólica del Sur;Energía;31/12/2024;1.909,2;248,0;4.593,4;1.448,3
+Farma Ibérica;Salud;31/12/2024;10.227,8;1.458,3;14.730,0;
+Finanzas Cantábrico;Banca;31/12/2024;2.571,5;79,7;6.714,6;3.619,0
+Gas Meseta;Energía;31/12/2024;24.405,0;1.664,4;31.307,1;15.948,2
+Iberluz;Energía;31/12/2024;8.278,5;933,9;20.227,3;6.544,8
+Ibersistemas;Tecnología;31/12/2024;9.007,0;1.173,0;10.331,4;3.101,8
+Ingeniería Miño;Industria;31/12/2024;16.437,7;;21.171,1;7.376,3
+Laboratorios Sol;Salud;31/12/2024;6.039,6;385,1;5.496,7;2.579,1
+Laboratorios Sol;Salud;31/12/2024;6.039,6;385,1;5.496,7;2.579,1
+Lácteos Norte;Consumo;31/12/2024;19.547,9;1.462,8;21.792,7;7.432,5
+Moda Brava;Consumo;31/12/2024;3.608,6;556,6;9.232,2;3.368,6
+Motores Júcar;Industria;31/12/2024;9.333,9;493,8;17.240,2;8.583,6
+Nubetec;Tecnología;31/12/2024;;977,6;12.395,9;4.193,4
+Ortopedia Centro;Salud;31/12/2024;10.672,2;1.013,5;16.161,8;7.758,7
+Petrolera Atlántica;Energía;31/12/2024;11.354,8;731,9;13.749,7;
+Redlink;Tecnología;31/12/2024;17.178,6;2.224,8;24.042,3;10.950,6
+Solaria Norte;Energía;31/12/2024;6.575,4;332,8;6.910,8;2.514,1
